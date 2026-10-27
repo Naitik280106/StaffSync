@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: staffsync-api
+    runtime: node
+    rootDir: server
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: MONGO_URI
+        sync: false
+      - key: CLIENT_URL
+        value: "*"
