@@ -4,7 +4,7 @@
 [![Backend API](https://img.shields.io/badge/Backend%20API-Render-46E3B7?style=for-the-badge&logo=render)](https://staffsync-uw4p.onrender.com/api/health)
 [![Database](https://img.shields.io/badge/Database-MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/atlas)
 
-A full-stack MERN Human Resource Management System built by [Naitik](https://github.com/Naitik280106).
+A full-stack MERN Human Resource Management System built by [Naitik Jain](https://github.com/Naitik280106).
 
 ### 🌐 Live Deployment
 - **Frontend (Vercel):** [https://staff-sync-delta.vercel.app/](https://staff-sync-delta.vercel.app/)
